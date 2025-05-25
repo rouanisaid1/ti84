@@ -1,2 +1,4 @@
-/.venv
-/bundled.html
+# local / developer files
+.venv/
+inline.py
+requirements.txt
